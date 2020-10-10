@@ -207,4 +207,9 @@ public class SortMethod {
     }
 
 
+    public void quickSort(){
+
+        Math.random();
+    }
+
 }
